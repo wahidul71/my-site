@@ -9,3 +9,6 @@ header{
     margin: 0 auto;
     text-align: center;
 }
+header img{
+    width: 50%;
+}
